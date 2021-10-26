@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Thierry Schertenleib
 - 👀 I’m interested in programming in go, java, javascript
 - 🌱 I’m currently learning how to manage kubernetes clusters
-- 💞️ I’m looking to collaborate on the realisation of advanced, challenging, complex systems 
+- ✨ My motto: as complex as necessary, as simple as possible
+- 💞️ I’m looking to collaborate on the realisation of advanced, challenging and sophisticated systems (in respect of my motto)  
 - 📫 How to reach me: thierry@mailbox.org
 
 <!---
