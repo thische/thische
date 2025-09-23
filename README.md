@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thierry Schertenleib
 - 👀 I’m interested in programming in Go, Rust, Java, JavaScript
-- 🌱 I’m currently learning how to manage kubernetes clusters
+- 🌱 I’m currently learning NodeJS, Typescript and React
 - ✨ My motto: as complex as necessary, as simple as possible
-- 📫 How to reach me: thierry@mailbox.org
+- 📫 How to reach me: thische@mailbox.org
