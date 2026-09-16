@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thierry Schertenleib
-- 👀 I’m interested in programming in Go, Rust, Java, JavaScript
-- 🌱 I’m currently learning NodeJS, Typescript and React
+- 👀 I’m interested in programming in Go, TypeScript, JavaScript, Rust, Java 
+- 🌱 I’m currently itensively using NodeJS, NestJS, React and Kubernetes
 - ✨ My motto: as complex as necessary, as simple as possible
 - 📫 How to reach me: thische@mailbox.org
