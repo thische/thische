@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thierry Schertenleib
 - 👀 I’m interested in programming in Go, TypeScript, JavaScript, Rust, Java 
-- 🌱 I’m currently itensively using NodeJS, NestJS, React and Kubernetes
+- 🌱 I’m currently itensively using NestJS, React, MySQL and Kubernetes
 - ✨ My motto: as complex as necessary, as simple as possible
 - 📫 How to reach me: thische@mailbox.org
